@@ -330,6 +330,7 @@ button1{
 .page1{
     display: flex;
     justify-content: space-evenly;
+    gap: 150px;
     margin-bottom: 50px;
 }
 .p1{
@@ -406,8 +407,5 @@ button1{
     display: flex;
     justify-content: space-between;
     background-color: black;
-}
-.img8{
-    color: aqua;
-    margin-left: 70px;
+    
 }
